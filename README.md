@@ -22,7 +22,7 @@
 
 <div>
   <h3>🧰 Languages and tools I'm mastering until now:</h3><br>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Typescript&color=%233178C6&style=for-the-badge&logo=typescript&logoColor=03256C" alt="Javascript"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey" alt="REACT.JS"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=TAILWINDCSS&color=%2306B6D4&style=for-the-badge&logo=tailwindcss&logoColor=whitesmoke" alt="Tailwind CSS"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Typescript&color=%233178C6&style=for-the-badge&logo=typescript&logoColor=whitesmoke" alt="Typescript"></a>
