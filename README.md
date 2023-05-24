@@ -8,7 +8,7 @@
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 📚 I’m currently learning: <b>Front-end development with React.js and Typescript, trying to get my first experience as a developer.</b></p>
+        <p>• 📚 I’m currently doing: <b>FullStack development with Next.js, Qwik and Nodejs while working part-time and finishing my degree in computer science.</b></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
         <p>• 📫 How to reach me: <b>jpnsantos14@gmail.com</b></p>
 </div><br>
@@ -22,7 +22,7 @@
 
 <div>
   <h3>🧰 Languages and tools I'm mastering until now:</h3><br>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Typescript&color=%233178C6&style=for-the-badge&logo=typescript&logoColor=03256C" alt="Javascript"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey" alt="REACT.JS"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=TAILWINDCSS&color=%2306B6D4&style=for-the-badge&logo=tailwindcss&logoColor=whitesmoke" alt="Tailwind CSS"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Typescript&color=%233178C6&style=for-the-badge&logo=typescript&logoColor=whitesmoke" alt="Typescript"></a>
@@ -39,9 +39,9 @@ ___
 
 <div>
   <h3>📱 Social Medias:</h3><br>
-    <a href="https://www.linkedin.com/in/joaosantos14/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
-    <a href="https://steamcommunity.com/id/jplayss" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Steam&color=%23000000&style=for-the-badge&logo=steam&logoColor=whitesmoke" alt="Steam"></a>
     <a href="https://jpnsantos.pt"><img src="https://img.shields.io/static/v1?label=&message=Website&color=%230A0A0A&style=for-the-badge&logo=googlechrome&logoColor=whitesmoke" alt="Website"></a>
+    <a href="https://www.linkedin.com/in/joaosantos14/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>z
     <a href="https://www.instagram.com/jp.santoss_/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
+    <a href="https://steamcommunity.com/id/jplayss" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Steam&color=%23000000&style=for-the-badge&logo=steam&logoColor=whitesmoke" alt="Steam"></a>
     <img src="https://img.shields.io/static/v1?label=&message=JPLAYS%238816&color=%235865F2&style=for-the-badge&logo=discord&logoColor=whitesmoke" alt="JPLAYS#8816">
 </div>
