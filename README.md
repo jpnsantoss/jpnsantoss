@@ -40,7 +40,7 @@ ___
 <div>
   <h3>📱 Social Medias:</h3><br>
     <a href="https://jpnsantos.pt"><img src="https://img.shields.io/static/v1?label=&message=Website&color=%230A0A0A&style=for-the-badge&logo=googlechrome&logoColor=whitesmoke" alt="Website"></a>
-    <a href="https://www.linkedin.com/in/joaosantos14/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>z
+    <a href="https://www.linkedin.com/in/joaosantos14/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
     <a href="https://www.instagram.com/jp.santoss_/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
     <a href="https://steamcommunity.com/id/jplayss" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Steam&color=%23000000&style=for-the-badge&logo=steam&logoColor=whitesmoke" alt="Steam"></a>
     <img src="https://img.shields.io/static/v1?label=&message=JPLAYS%238816&color=%235865F2&style=for-the-badge&logo=discord&logoColor=whitesmoke" alt="JPLAYS#8816">
